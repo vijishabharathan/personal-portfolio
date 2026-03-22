@@ -104,7 +104,7 @@ li{
 
         <div style="flex: 1; color: #333; font-size: 1.5rem;">
             <strong>GitHub:</strong><br>
-            <a href="https://github.com/yourusername" target="_blank" style="color: #007bff; text-decoration: none;">github.com/yourname</a>
+            <a href="https://github.com/yourusername" target="_blank" style="color: #007bff; text-decoration: none;">github.com/vijishabharathan/personal-portfolio</a>
         </div>
 
     </div>
