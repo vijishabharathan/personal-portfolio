@@ -94,7 +94,7 @@ li{
 
         <div style="flex: 1;color: #333; font-size: 1.5rem;">
             <strong>Phone:</strong><br>
-            <a href="tel:+1234567890" style="color: #007bff; text-decoration: none;">+91 7356193950</a>
+            <a href="tel:+1234567890" style="color: #007bff; text-decoration: none;">+91 1234567890</a>
         </div>
 
         <div style="flex: 1;color: #333; font-size: 1.5rem;">
